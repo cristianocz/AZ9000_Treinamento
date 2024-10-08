@@ -5,4 +5,6 @@ nesse segundo momento foi falado sobre a criação de maquinas virtuais e seua d
 
 Próximo desafio foi montar um grupo de recursos no azure onde sera usado para as outrss atividades do treinamento. Utilizando a ferramenta azure foi possivel entender com amis  Lareza como se cria umgrupo de recurso no azure 
 
+Nesse nosso treinamento foi mostrado sobre a criação de maquinas virtuais e suas configurações , como rede, aramzenamento , load balance entre outros.
+
  
