@@ -7,4 +7,6 @@ Próximo desafio foi montar um grupo de recursos no azure onde sera usado para a
 
 Nesse nosso treinamento foi mostrado sobre a criação de maquinas virtuais e suas configurações , como rede, aramzenamento , load balance entre outros.
 
+Outro desafio testado foi a criação de armazenamento em nuvem criando um storage account para esse processo e tabmem faalado e testado processo de migração dos dados para a nuvem
+
  
