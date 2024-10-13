@@ -9,4 +9,5 @@ Nesse nosso treinamento foi mostrado sobre a criação de maquinas virtuais e su
 
 Outro desafio testado foi a criação de armazenamento em nuvem criando um storage account para esse processo e tabmem faalado e testado processo de migração dos dados para a nuvem
 
- 
+Quando falomos em identidade,acesso e segurança. Aprendemos que é preciso muito controle e algumas configurações ate mesmo em multi fator.
+Usando o serviço Microsoft Entra ID
