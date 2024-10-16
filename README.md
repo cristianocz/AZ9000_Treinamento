@@ -14,3 +14,6 @@ Usando o serviço Microsoft Entra ID
 
 
 Entradno na fase 3 do treinamento comecei a entender que existe uma maneira de calcular os custos que serão cobrados pelos serviços que poderão ser usados no AZURE pelo cliente, usamos o link : https://azure.microsoft.com/pt-br/pricing/tco/calculator/
+
+
+Em questão de governança e conformidade para controle do AZURE , para a administração de Policies e controle de todo o ambiente e ficou claro que esse serviço é para o controle de Recursos e não de qual ou de que nivel é o usuário dentro do AZURE
