@@ -11,3 +11,6 @@ Outro desafio testado foi a criação de armazenamento em nuvem criando um stora
 
 Quando falomos em identidade,acesso e segurança. Aprendemos que é preciso muito controle e algumas configurações ate mesmo em multi fator.
 Usando o serviço Microsoft Entra ID
+
+
+Entradno na fase 3 do treinamento comecei a entender que existe uma maneira de calcular os custos que serão cobrados pelos serviços que poderão ser usados no AZURE pelo cliente, usamos o link : https://azure.microsoft.com/pt-br/pricing/tco/calculator/
