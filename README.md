@@ -17,3 +17,5 @@ Entradno na fase 3 do treinamento comecei a entender que existe uma maneira de c
 
 
 Em questão de governança e conformidade para controle do AZURE , para a administração de Policies e controle de todo o ambiente e ficou claro que esse serviço é para o controle de Recursos e não de qual ou de que nivel é o usuário dentro do AZURE
+
+DAndo continuídade ao processo de aprendizado e quase chegando ao finla dessa linda jornada, foi para aprender como podemos GErenciar e implantação e achei muito interessante a programação do Azure o BICEP. 
